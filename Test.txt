@@ -1,3 +1,2 @@
 Test text file.
 Adding the second line.
-Line in branch "feature-1".
